@@ -1,10 +1,3 @@
-GROUP MEMBERS ->
---------------------------------
-Perivitta Rajendran
-Lou Jia Yu
-Nur Amiera
-Sarah Batrisyia 
-
 --------------------------------
 Each question has its own files 
 --------------------------------
